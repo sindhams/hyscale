@@ -33,7 +33,7 @@ Open your terminal and enter the following:
 ```sh
 curl -sSL http://get.hyscale.io | bash
 ```
-Verified on CentOS, Ubuntu and Debian Linux. Mac and Windows installer coming soon!
+Verified on CentOS, Ubuntu and Debian Linux. For macOS, refer to the steps [here](docs/install.md) and Windows installer coming soon!
 
 ## Deploying to k8s
 
